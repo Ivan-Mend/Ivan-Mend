@@ -1,8 +1,5 @@
 ### Hola bienvenidos a mi perfil 👋
 
-<!--
-**Ivan-Mend/Ivan-Mend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 Actualmente estoy estudiando en el ciclo DAW en el CIPFP de Cheste💻
 - 👯 I’m looking to collaborate on ...
