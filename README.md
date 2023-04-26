@@ -11,8 +11,3 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 <br>
-
-<br><br>
-<a href="https://github.com/ankitwarbhe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Mend&theme=dark">
-</a>
