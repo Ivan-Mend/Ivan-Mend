@@ -4,6 +4,11 @@
 <a >
   <img align="left" alt="Ivan Mend | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<br>
+<a >
+  <img align="left" alt="Ankit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br>
 - 😄 Me llamo Ivan Mendivil y tengo 21 años;
 - 🔭 Actualmente estoy estudiando en el ciclo DAW en el CIPFP de Cheste💻;
 - 🎲 Tengo conocimientos básicos de HTML, CSS y Oracle;
