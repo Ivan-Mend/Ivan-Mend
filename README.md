@@ -11,6 +11,7 @@
 <br>
 - 😄 Me llamo Ivan Mendivil y tengo 21 años;
 - 🔭 Actualmente estoy estudiando en el ciclo DAW en el CIPFP de Cheste💻;
+                                                                                                                       
 - 🎲 Tengo conocimientos básicos de HTML, CSS y Oracle;
 - 🧮 Tengo la titulación de Bachillerato de Ciencias 
 - 🤔 I’m looking for help with ...;
