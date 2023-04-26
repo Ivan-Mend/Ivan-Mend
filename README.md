@@ -9,6 +9,7 @@
 </a>
 <br>                                                                                                                      
 <br>
+                                                                                                                       
 - 😄 Me llamo Ivan Mendivil y tengo 21 años;
                                                                                                                        
 - 🔭 Actualmente estoy estudiando en el ciclo DAW en el CIPFP de Cheste💻;
