@@ -1,7 +1,9 @@
 ### Hola bienvenidos a mi perfil 👋
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-
+<a href="https://twitter.com/ankitwarbhe">
+  <img align="left" | Twitter" width="22px" />
+</a>
 - 😄 Me llamo Ivan Mendivil y tengo 21 años;
 - 🔭 Actualmente estoy estudiando en el ciclo DAW en el CIPFP de Cheste💻;
 - 🎲 Tengo conocimientos básicos de HTML, CSS y Oracle;
