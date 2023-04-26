@@ -7,6 +7,7 @@
 <a >
   <img align="left" alt="Ivan Mend" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br>                                                                                                                      
 <br>
 - 😄 Me llamo Ivan Mendivil y tengo 21 años;
 - 🔭 Actualmente estoy estudiando en el ciclo DAW en el CIPFP de Cheste💻;
