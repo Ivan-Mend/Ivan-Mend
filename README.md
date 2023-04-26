@@ -9,7 +9,7 @@
 </a>
 <br>                                                                                                                      
                                                                                                                        
-- 😄 Me llamo **Ivan Mendivil** y tengo 21 años;
+- 😄 Me llamo **Iván Mendivil** y tengo 21 años;
                                                                                                                        
 - 🔭 Actualmente estoy estudiando en el ciclo DAW en el CIPFP de Cheste💻;
                                                                                                                        
